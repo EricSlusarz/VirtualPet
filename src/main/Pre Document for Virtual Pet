@@ -1,0 +1,28 @@
+This is my Yak Shaving mark down document describing what this project will involve.
+
+Don't froget to add the test folder and JUnit library as a dependency(whatever that means).
+Add a scanner
+We will be making a virtual pet. This project needs to have a:
+	-three attributes
+	-three messages(or methods)
+	-one method needs to be a tick method
+		+ a tick method seems indicate a lapse of time or a "turn" has taken place
+	-also we need a main method (or an ApplicationMethod; i will just call it main0
+
+Let's start with three features and make that work first.
+ So just: Hunger Thirst and Sleepiness and then hopefully more but watch out for scope creep.
+ Don't know how time works or how to build it in java so tick will be called when we enter a number in
+ We could use random to activate a some methods or make one random method with conditions in it.
+ Make sure tick is used as kind of a gear that makes things turn and update. I think tick can be used as interpolation (whatever that means).
+ Make sure feeding brings down hunger and the same with the other attributes
+ Go with a theme like fighting crime.
+ 
+ I would like to make a fun game where there is some sort of goal so hopefully I can implement that.
+ Get some ascii art or better yet bring in some graphical libraries that can make some sort of animal.
+ 
+  maybe write a test.
+ 
+ 
+ Post hoc: I did it but it is really messy. I like that game but I wished that my thread worked.
+ 
+ 
